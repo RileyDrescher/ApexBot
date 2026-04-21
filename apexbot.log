@@ -1,0 +1,189 @@
+2026-04-19 10:41:52,917 [INFO] setting up API-client for environment practice
+2026-04-19 10:41:52,918 [INFO] ==================================================
+2026-04-19 10:41:52,918 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 10:41:52,918 [INFO] ==================================================
+2026-04-19 10:41:52,918 [INFO]   Pairs: 24
+2026-04-19 10:41:52,919 [INFO]   Mode:  LIVE
+2026-04-19 10:41:52,919 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 10:41:52,919 [INFO] ==================================================
+2026-04-19 10:41:52,919 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 10:41:52,919 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 10:41:53,800 [INFO] [09:41 EST] Weekend — Market Closed (Sunday, opens 22:00 UTC) — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 10:44:15,516 [INFO] Bot stopped by user.
+2026-04-19 10:44:36,020 [INFO] setting up API-client for environment practice
+2026-04-19 10:44:36,020 [INFO] ==================================================
+2026-04-19 10:44:36,020 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 10:44:36,020 [INFO] ==================================================
+2026-04-19 10:44:36,020 [INFO]   Pairs: 24
+2026-04-19 10:44:36,021 [INFO]   Mode:  LIVE
+2026-04-19 10:44:36,021 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 10:44:36,021 [INFO] ==================================================
+2026-04-19 10:44:36,021 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 10:44:36,021 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 10:44:36,952 [INFO] [09:44 EST] Weekend — Market Closed (Sunday, opens 22:00 UTC) — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 10:46:14,962 [INFO] Bot stopped by user.
+2026-04-19 10:48:08,274 [INFO] setting up API-client for environment practice
+2026-04-19 10:48:08,274 [INFO] ==================================================
+2026-04-19 10:48:08,275 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 10:48:08,275 [INFO] ==================================================
+2026-04-19 10:48:08,275 [INFO]   Pairs: 24
+2026-04-19 10:48:08,275 [INFO]   Mode:  LIVE
+2026-04-19 10:48:08,275 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 10:48:08,275 [INFO] ==================================================
+2026-04-19 10:48:08,276 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 10:48:08,276 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 10:48:12,764 [INFO] [09:48 EST] Weekend — Market Closed (Sunday, opens 22:00 UTC) — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 10:48:47,934 [INFO] setting up API-client for environment practice
+2026-04-19 10:48:47,935 [INFO] ==================================================
+2026-04-19 10:48:47,935 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 10:48:47,935 [INFO] ==================================================
+2026-04-19 10:48:47,935 [INFO]   Pairs: 24
+2026-04-19 10:48:47,935 [INFO]   Mode:  LIVE
+2026-04-19 10:48:47,936 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 10:48:47,936 [INFO] ==================================================
+2026-04-19 10:48:47,936 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 10:48:47,936 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 10:48:48,403 [INFO] [09:48 EST] Weekend — Market Closed (Sunday, opens 22:00 UTC) — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 10:51:30,189 [INFO] setting up API-client for environment practice
+2026-04-19 10:51:30,189 [INFO] ==================================================
+2026-04-19 10:51:30,190 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 10:51:30,190 [INFO] ==================================================
+2026-04-19 10:51:30,190 [INFO]   Pairs: 24
+2026-04-19 10:51:30,190 [INFO]   Mode:  LIVE
+2026-04-19 10:51:30,190 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 10:51:30,190 [INFO] ==================================================
+2026-04-19 10:51:30,191 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 10:51:30,191 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 10:51:31,092 [INFO] [09:51 EST] Weekend — Market Closed (Sunday, opens 22:00 UTC) — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 10:52:07,860 [INFO] Bot stopped by user.
+2026-04-19 10:53:31,909 [INFO] setting up API-client for environment practice
+2026-04-19 10:53:31,909 [INFO] ==================================================
+2026-04-19 10:53:31,909 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 10:53:31,909 [INFO] ==================================================
+2026-04-19 10:53:31,910 [INFO]   Pairs: 24
+2026-04-19 10:53:31,910 [INFO]   Mode:  LIVE
+2026-04-19 10:53:31,910 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 10:53:31,910 [INFO] ==================================================
+2026-04-19 10:53:31,911 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 10:53:31,911 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 10:53:32,337 [INFO] [09:53 EST] Weekend — Market Closed (Sunday, opens 22:00 UTC) — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 10:54:11,369 [INFO] Bot stopped by user.
+2026-04-19 15:03:27,155 [INFO] setting up API-client for environment practice
+2026-04-19 15:03:27,155 [INFO] ==================================================
+2026-04-19 15:03:27,156 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 15:03:27,156 [INFO] ==================================================
+2026-04-19 15:03:27,156 [INFO]   Pairs: 24
+2026-04-19 15:03:27,156 [INFO]   Mode:  LIVE
+2026-04-19 15:03:27,156 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 15:03:27,156 [INFO] ==================================================
+2026-04-19 15:03:27,156 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 15:03:27,156 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 15:03:28,210 [INFO] [14:03 EST] Weekend — Market Closed (Sunday, opens 22:00 UTC) — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 15:03:53,353 [INFO] Bot stopped by user.
+2026-04-19 15:04:56,954 [INFO] setting up API-client for environment practice
+2026-04-19 15:04:56,954 [INFO] ==================================================
+2026-04-19 15:04:56,954 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 15:04:56,954 [INFO] ==================================================
+2026-04-19 15:04:56,954 [INFO]   Pairs: 24
+2026-04-19 15:04:56,955 [INFO]   Mode:  LIVE
+2026-04-19 15:04:56,955 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 15:04:56,955 [INFO] ==================================================
+2026-04-19 15:04:56,955 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 15:04:56,955 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 15:04:57,845 [INFO] [14:04 EST] Weekend — Market Closed (Sunday, opens 22:00 UTC) — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 15:05:28,478 [INFO] Bot stopped by user.
+2026-04-19 22:57:40,705 [INFO] setting up API-client for environment practice
+2026-04-19 22:57:40,705 [INFO] ==================================================
+2026-04-19 22:57:40,706 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 22:57:40,707 [INFO] ==================================================
+2026-04-19 22:57:40,707 [INFO]   Pairs: 24
+2026-04-19 22:57:40,707 [INFO]   Mode:  LIVE
+2026-04-19 22:57:40,707 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 22:57:40,707 [INFO] ==================================================
+2026-04-19 22:57:40,707 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 22:57:40,707 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 22:57:41,824 [INFO] [21:57 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 22:58:06,208 [INFO] setting up API-client for environment practice
+2026-04-19 22:58:06,208 [INFO] ==================================================
+2026-04-19 22:58:06,208 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 22:58:06,209 [INFO] ==================================================
+2026-04-19 22:58:06,209 [INFO]   Pairs: 24
+2026-04-19 22:58:06,209 [INFO]   Mode:  LIVE
+2026-04-19 22:58:06,209 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 22:58:06,209 [INFO] ==================================================
+2026-04-19 22:58:06,209 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 22:58:06,209 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 22:58:07,319 [INFO] [21:58 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 22:58:08,184 [INFO] Bot stopped by user.
+2026-04-19 22:58:23,010 [INFO] setting up API-client for environment practice
+2026-04-19 22:58:23,010 [INFO] ==================================================
+2026-04-19 22:58:23,010 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 22:58:23,010 [INFO] ==================================================
+2026-04-19 22:58:23,011 [INFO]   Pairs: 24
+2026-04-19 22:58:23,011 [INFO]   Mode:  LIVE
+2026-04-19 22:58:23,011 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 22:58:23,011 [INFO] ==================================================
+2026-04-19 22:58:23,011 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 22:58:23,011 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 22:58:23,560 [INFO] [21:58 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 23:03:23,561 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 23:03:23,625 [INFO] [22:03 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 23:34:39,984 [INFO] setting up API-client for environment practice
+2026-04-19 23:34:39,984 [INFO] ==================================================
+2026-04-19 23:34:39,985 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 23:34:39,985 [INFO] ==================================================
+2026-04-19 23:34:39,985 [INFO]   Pairs: 24
+2026-04-19 23:34:39,985 [INFO]   Mode:  LIVE
+2026-04-19 23:34:39,985 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 23:34:39,985 [INFO] ==================================================
+2026-04-19 23:34:39,986 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 23:34:39,986 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 23:35:00,979 [INFO] setting up API-client for environment practice
+2026-04-19 23:35:00,980 [INFO] ==================================================
+2026-04-19 23:35:00,980 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 23:35:00,980 [INFO] ==================================================
+2026-04-19 23:35:00,980 [INFO]   Pairs: 24
+2026-04-19 23:35:00,980 [INFO]   Mode:  LIVE
+2026-04-19 23:35:00,980 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 23:35:00,981 [INFO] ==================================================
+2026-04-19 23:35:00,981 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 23:35:00,981 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 23:35:01,395 [INFO] [22:35 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 23:40:01,396 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 23:40:01,497 [INFO] [22:40 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-19 23:40:19,770 [INFO] Bot stopped by user.
+2026-04-19 23:40:33,973 [INFO] setting up API-client for environment practice
+2026-04-19 23:40:33,973 [INFO] ==================================================
+2026-04-19 23:40:33,973 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-19 23:40:33,973 [INFO] ==================================================
+2026-04-19 23:40:33,974 [INFO]   Pairs: 24
+2026-04-19 23:40:33,974 [INFO]   Mode:  LIVE
+2026-04-19 23:40:33,974 [INFO]   Session: 7:00–20:00 UTC
+2026-04-19 23:40:33,974 [INFO] ==================================================
+2026-04-19 23:40:33,974 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-19 23:40:33,974 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-19 23:40:34,890 [INFO] [22:40 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-20 21:13:17,296 [INFO] setting up API-client for environment practice
+2026-04-20 21:13:17,297 [INFO] ==================================================
+2026-04-20 21:13:17,297 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-20 21:13:17,297 [INFO] ==================================================
+2026-04-20 21:13:17,298 [INFO]   Pairs: 24
+2026-04-20 21:13:17,298 [INFO]   Mode:  LIVE
+2026-04-20 21:13:17,298 [INFO]   Session: 7:00–20:00 UTC
+2026-04-20 21:13:17,298 [INFO] ==================================================
+2026-04-20 21:13:17,298 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-20 21:13:17,298 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-20 21:13:18,242 [INFO] [20:13 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-20 21:13:22,858 [INFO] Bot stopped by user.
+2026-04-20 21:13:48,066 [INFO] setting up API-client for environment practice
+2026-04-20 21:13:48,066 [INFO] ==================================================
+2026-04-20 21:13:48,066 [INFO]   APEXBOT — FOREX STRATEGY BOT
+2026-04-20 21:13:48,066 [INFO] ==================================================
+2026-04-20 21:13:48,067 [INFO]   Pairs: 24
+2026-04-20 21:13:48,067 [INFO]   Mode:  LIVE
+2026-04-20 21:13:48,067 [INFO]   Session: 7:00–20:00 UTC
+2026-04-20 21:13:48,067 [INFO] ==================================================
+2026-04-20 21:13:48,067 [INFO] Bot started. Scanning pairs every 60 seconds...
+2026-04-20 21:13:48,067 [INFO] performing request https://api-fxpractice.oanda.com/v3/accounts/101-001-35672721-004/summary
+2026-04-20 21:13:49,003 [INFO] [20:13 EST] Outside Session Hours — London opens 3:00 AM EST | NY opens 8:30 AM EST
+2026-04-20 21:14:07,749 [INFO] Bot stopped by user.
